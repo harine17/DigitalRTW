@@ -1,16 +1,22 @@
-# test
+# FlutterApp
+It is a basic UI flutter app which checks on the progress of the patient.
 
-A new Flutter project.
+#Getting Started
+To run the app on your local machine, follow these steps:
+Install Flutter on your machine by following the instructions on the official Flutter website.
+Clone the repository by running the following command in your terminal:
+'git clone file.git'
+Navigate to the project directory and run the app by running the following command:
+'flutter run'
 
-## Getting Started
+#For Contributing
+Fork the repository.
+Create a new branch for your feature or bug fix:
+'git checkout -b my-new-feature'
+Make your changes and commit them:
+'git commit -am 'Add some feature''
+Push to the branch:
+'git push origin my-new-feature'
+Submit a pull request.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
